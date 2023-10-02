@@ -35,25 +35,30 @@ limitations under the License.
 
 > Logistic distribution.
 
+<section class="installation">
 
+## Installation
+
+```bash
+npm install @stdlib/stats-base-dists-logistic
+```
+
+Alternatively,
+
+-   To load the package in a website via a `script` tag without installation and bundlers, use the [ES Module][es-module] available on the [`esm` branch][esm-url].
+-   If you are using Deno, visit the [`deno` branch][deno-url].
+-   For use in Observable, or in browser/node environments, use the [Universal Module Definition (UMD)][umd] build available on the [`umd` branch][umd-url].
+
+The [branches.md][branches-url] file summarizes the available branches and displays a diagram illustrating their relationships.
+
+</section>
 
 <section class="usage">
 
 ## Usage
 
 ```javascript
-import logistic from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic@deno/mod.js';
-```
-The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-logistic/tags). For example,
-
-```javascript
-import logistic from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic@v0.1.0-deno/mod.js';
-```
-
-You can also import the following named exports from the package:
-
-```javascript
-import { Logistic, cdf, entropy, kurtosis, logcdf, logpdf, mean, median, mgf, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic@deno/mod.js';
+var logistic = require( '@stdlib/stats-base-dists-logistic' );
 ```
 
 #### logistic
@@ -114,7 +119,7 @@ The namespace contains a constructor function for creating a [logistic][logistic
 <!-- </toc> -->
 
 ```javascript
-var Logistic = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic' ).Logistic;
+var Logistic = require( '@stdlib/stats-base-dists-logistic' ).Logistic;
 
 var dist = new Logistic( 2.0, 4.0 );
 
@@ -135,8 +140,8 @@ var y = dist.pdf( 2.0 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import logistic from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic@deno/mod.js';
+var objectKeys = require( '@stdlib/utils-keys' );
+var logistic = require( '@stdlib/stats-base-dists-logistic' );
 
 console.log( objectKeys( logistic ) );
 ```
@@ -162,7 +167,7 @@ console.log( objectKeys( logistic ) );
 
 ## Notice
 
-This package is part of [stdlib][stdlib], a standard library with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
+This package is part of [stdlib][stdlib], a standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
 
 For more information on the project, filing bug reports and feature requests, and guidance on how to develop [stdlib][stdlib], see the main project [repository][stdlib].
 
@@ -192,8 +197,8 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/stats-base-dists-logistic.svg
 [npm-url]: https://npmjs.org/package/@stdlib/stats-base-dists-logistic
 
-[test-image]: https://github.com/stdlib-js/stats-base-dists-logistic/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/stats-base-dists-logistic/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/stats-base-dists-logistic/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/stats-base-dists-logistic/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/stats-base-dists-logistic/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/stats-base-dists-logistic?branch=main
@@ -226,35 +231,35 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 <!-- <toc-links> -->
 
-[@stdlib/stats/base/dists/logistic/ctor]: https://github.com/stdlib-js/stats-base-dists-logistic-ctor/tree/deno
+[@stdlib/stats/base/dists/logistic/ctor]: https://github.com/stdlib-js/stats-base-dists-logistic-ctor
 
-[@stdlib/stats/base/dists/logistic/entropy]: https://github.com/stdlib-js/stats-base-dists-logistic-entropy/tree/deno
+[@stdlib/stats/base/dists/logistic/entropy]: https://github.com/stdlib-js/stats-base-dists-logistic-entropy
 
-[@stdlib/stats/base/dists/logistic/kurtosis]: https://github.com/stdlib-js/stats-base-dists-logistic-kurtosis/tree/deno
+[@stdlib/stats/base/dists/logistic/kurtosis]: https://github.com/stdlib-js/stats-base-dists-logistic-kurtosis
 
-[@stdlib/stats/base/dists/logistic/mean]: https://github.com/stdlib-js/stats-base-dists-logistic-mean/tree/deno
+[@stdlib/stats/base/dists/logistic/mean]: https://github.com/stdlib-js/stats-base-dists-logistic-mean
 
-[@stdlib/stats/base/dists/logistic/median]: https://github.com/stdlib-js/stats-base-dists-logistic-median/tree/deno
+[@stdlib/stats/base/dists/logistic/median]: https://github.com/stdlib-js/stats-base-dists-logistic-median
 
-[@stdlib/stats/base/dists/logistic/mode]: https://github.com/stdlib-js/stats-base-dists-logistic-mode/tree/deno
+[@stdlib/stats/base/dists/logistic/mode]: https://github.com/stdlib-js/stats-base-dists-logistic-mode
 
-[@stdlib/stats/base/dists/logistic/skewness]: https://github.com/stdlib-js/stats-base-dists-logistic-skewness/tree/deno
+[@stdlib/stats/base/dists/logistic/skewness]: https://github.com/stdlib-js/stats-base-dists-logistic-skewness
 
-[@stdlib/stats/base/dists/logistic/stdev]: https://github.com/stdlib-js/stats-base-dists-logistic-stdev/tree/deno
+[@stdlib/stats/base/dists/logistic/stdev]: https://github.com/stdlib-js/stats-base-dists-logistic-stdev
 
-[@stdlib/stats/base/dists/logistic/variance]: https://github.com/stdlib-js/stats-base-dists-logistic-variance/tree/deno
+[@stdlib/stats/base/dists/logistic/variance]: https://github.com/stdlib-js/stats-base-dists-logistic-variance
 
-[@stdlib/stats/base/dists/logistic/cdf]: https://github.com/stdlib-js/stats-base-dists-logistic-cdf/tree/deno
+[@stdlib/stats/base/dists/logistic/cdf]: https://github.com/stdlib-js/stats-base-dists-logistic-cdf
 
-[@stdlib/stats/base/dists/logistic/logcdf]: https://github.com/stdlib-js/stats-base-dists-logistic-logcdf/tree/deno
+[@stdlib/stats/base/dists/logistic/logcdf]: https://github.com/stdlib-js/stats-base-dists-logistic-logcdf
 
-[@stdlib/stats/base/dists/logistic/logpdf]: https://github.com/stdlib-js/stats-base-dists-logistic-logpdf/tree/deno
+[@stdlib/stats/base/dists/logistic/logpdf]: https://github.com/stdlib-js/stats-base-dists-logistic-logpdf
 
-[@stdlib/stats/base/dists/logistic/mgf]: https://github.com/stdlib-js/stats-base-dists-logistic-mgf/tree/deno
+[@stdlib/stats/base/dists/logistic/mgf]: https://github.com/stdlib-js/stats-base-dists-logistic-mgf
 
-[@stdlib/stats/base/dists/logistic/pdf]: https://github.com/stdlib-js/stats-base-dists-logistic-pdf/tree/deno
+[@stdlib/stats/base/dists/logistic/pdf]: https://github.com/stdlib-js/stats-base-dists-logistic-pdf
 
-[@stdlib/stats/base/dists/logistic/quantile]: https://github.com/stdlib-js/stats-base-dists-logistic-quantile/tree/deno
+[@stdlib/stats/base/dists/logistic/quantile]: https://github.com/stdlib-js/stats-base-dists-logistic-quantile
 
 <!-- </toc-links> -->
 
