@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import logistic from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic@deno/mod.js';
+import logistic from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic@v0.2.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { Logistic, cdf, entropy, kurtosis, logcdf, logpdf, mean, median, mgf, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic@deno/mod.js';
+import { Logistic, cdf, entropy, kurtosis, logcdf, logpdf, mean, median, mgf, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic@v0.2.0-deno/mod.js';
 ```
 
 #### logistic
@@ -131,7 +131,7 @@ var y = dist.pdf( 2.0 );
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import logistic from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic@deno/mod.js';
+import logistic from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-logistic@v0.2.0-deno/mod.js';
 
 console.log( objectKeys( logistic ) );
 ```
