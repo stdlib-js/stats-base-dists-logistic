@@ -4,9 +4,229 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-23)
 
-No changes reported for this release.
+<section class="packages">
+
+### Packages
+
+<section class="package" id="stats-base-dists-logistic-mean-unreleased">
+
+#### [@stdlib/stats/base/dists/logistic/mean](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/logistic/mean)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`113f340`](https://github.com/stdlib-js/stdlib/commit/113f3407b59c22f8b20a38147ef3470a8b30cd4a) - add C implementation for `stats/base/dists/logistic/mean` [(#4028)](https://github.com/stdlib-js/stdlib/pull/4028)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3738](https://github.com/stdlib-js/stdlib/issues/3738)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-logistic-median-unreleased">
+
+#### [@stdlib/stats/base/dists/logistic/median](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/logistic/median)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`7eb69d4`](https://github.com/stdlib-js/stdlib/commit/7eb69d4e7b7b998a98772fa118c16707a0160e92) - add C implementation for `stats/base/dists/logistic/median` [(#4031)](https://github.com/stdlib-js/stdlib/pull/4031)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3739](https://github.com/stdlib-js/stdlib/issues/3739)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-logistic-mode-unreleased">
+
+#### [@stdlib/stats/base/dists/logistic/mode](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/logistic/mode)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`7cff91f`](https://github.com/stdlib-js/stdlib/commit/7cff91f740c92525f6fe5fd1bbd9101babff3298) - add C implementation for `stats/base/dists/logistic/mode` [(#4029)](https://github.com/stdlib-js/stdlib/pull/4029)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3741](https://github.com/stdlib-js/stdlib/issues/3741)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-logistic-skewness-unreleased">
+
+#### [@stdlib/stats/base/dists/logistic/skewness](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/logistic/skewness)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`6c141f4`](https://github.com/stdlib-js/stdlib/commit/6c141f4c169d080eec1867c421aa6ffa88b9ebfd) - add C implementation for `stats/base/dists/logistic/skewness` [(#4038)](https://github.com/stdlib-js/stdlib/pull/4038)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3744](https://github.com/stdlib-js/stdlib/issues/3744)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-logistic-variance-unreleased">
+
+#### [@stdlib/stats/base/dists/logistic/variance](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/logistic/variance)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`9685979`](https://github.com/stdlib-js/stdlib/commit/968597945b0e8d1042ce17b6e08ca0f3e64058b4) - add C implementation for `stats/base/dists/logistic/variance` [(#3994)](https://github.com/stdlib-js/stdlib/pull/3994)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3746](https://github.com/stdlib-js/stdlib/issues/3746)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+</section>
+
+<!-- /.packages -->
+
+<section class="issues">
+
+### Closed Issues
+
+A total of 5 issues were closed in this release:
+
+[#3738](https://github.com/stdlib-js/stdlib/issues/3738), [#3739](https://github.com/stdlib-js/stdlib/issues/3739), [#3741](https://github.com/stdlib-js/stdlib/issues/3741), [#3744](https://github.com/stdlib-js/stdlib/issues/3744), [#3746](https://github.com/stdlib-js/stdlib/issues/3746)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Aayush Khanna
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`7eb69d4`](https://github.com/stdlib-js/stdlib/commit/7eb69d4e7b7b998a98772fa118c16707a0160e92) - **feat:** add C implementation for `stats/base/dists/logistic/median` [(#4031)](https://github.com/stdlib-js/stdlib/pull/4031) _(by Prashant Kumar Yadav)_
+-   [`6c141f4`](https://github.com/stdlib-js/stdlib/commit/6c141f4c169d080eec1867c421aa6ffa88b9ebfd) - **feat:** add C implementation for `stats/base/dists/logistic/skewness` [(#4038)](https://github.com/stdlib-js/stdlib/pull/4038) _(by Prashant Kumar Yadav)_
+-   [`7cff91f`](https://github.com/stdlib-js/stdlib/commit/7cff91f740c92525f6fe5fd1bbd9101babff3298) - **feat:** add C implementation for `stats/base/dists/logistic/mode` [(#4029)](https://github.com/stdlib-js/stdlib/pull/4029) _(by Prashant Kumar Yadav)_
+-   [`113f340`](https://github.com/stdlib-js/stdlib/commit/113f3407b59c22f8b20a38147ef3470a8b30cd4a) - **feat:** add C implementation for `stats/base/dists/logistic/mean` [(#4028)](https://github.com/stdlib-js/stdlib/pull/4028) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
+-   [`9685979`](https://github.com/stdlib-js/stdlib/commit/968597945b0e8d1042ce17b6e08ca0f3e64058b4) - **feat:** add C implementation for `stats/base/dists/logistic/variance` [(#3994)](https://github.com/stdlib-js/stdlib/pull/3994) _(by Aayush Khanna, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
 
 </section>
 
