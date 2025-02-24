@@ -4,11 +4,165 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-23)
+## Unreleased (2025-02-24)
 
 <section class="packages">
 
 ### Packages
+
+<section class="package" id="stats-base-dists-logistic-cdf-unreleased">
+
+#### [@stdlib/stats/base/dists/logistic/cdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/logistic/cdf)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+A total of 2 issues were closed in this release:
+
+[#4978](https://github.com/stdlib-js/stdlib/issues/4978), [#5302](https://github.com/stdlib-js/stdlib/issues/5302)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-logistic-ctor-unreleased">
+
+#### [@stdlib/stats/base/dists/logistic/ctor](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/logistic/ctor)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#4978](https://github.com/stdlib-js/stdlib/issues/4978)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-logistic-entropy-unreleased">
+
+#### [@stdlib/stats/base/dists/logistic/entropy](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/logistic/entropy)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#4978](https://github.com/stdlib-js/stdlib/issues/4978)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-logistic-kurtosis-unreleased">
+
+#### [@stdlib/stats/base/dists/logistic/kurtosis](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/logistic/kurtosis)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`f9d393e`](https://github.com/stdlib-js/stdlib/commit/f9d393e4a5cf40e85e24255c4372c5695da205f0) - add C implementation for `stats/base/dists/logistic/kurtosis` [(#4034)](https://github.com/stdlib-js/stdlib/pull/4034)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+A total of 2 issues were closed in this release:
+
+[#3735](https://github.com/stdlib-js/stdlib/issues/3735), [#4978](https://github.com/stdlib-js/stdlib/issues/4978)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-logistic-logcdf-unreleased">
+
+#### [@stdlib/stats/base/dists/logistic/logcdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/logistic/logcdf)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#4978](https://github.com/stdlib-js/stdlib/issues/4978)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-logistic-logpdf-unreleased">
+
+#### [@stdlib/stats/base/dists/logistic/logpdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/logistic/logpdf)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#4978](https://github.com/stdlib-js/stdlib/issues/4978)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
 
 <section class="package" id="stats-base-dists-logistic-mean-unreleased">
 
@@ -30,9 +184,9 @@
 
 ##### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3738](https://github.com/stdlib-js/stdlib/issues/3738)
+[#3738](https://github.com/stdlib-js/stdlib/issues/3738), [#4978](https://github.com/stdlib-js/stdlib/issues/4978)
 
 </section>
 
@@ -64,9 +218,33 @@ This release closes the following issue:
 
 ##### Closed Issues
 
+A total of 2 issues were closed in this release:
+
+[#3739](https://github.com/stdlib-js/stdlib/issues/3739), [#4978](https://github.com/stdlib-js/stdlib/issues/4978)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-logistic-mgf-unreleased">
+
+#### [@stdlib/stats/base/dists/logistic/mgf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/logistic/mgf)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
 This release closes the following issue:
 
-[#3739](https://github.com/stdlib-js/stdlib/issues/3739)
+[#4978](https://github.com/stdlib-js/stdlib/issues/4978)
 
 </section>
 
@@ -98,9 +276,57 @@ This release closes the following issue:
 
 ##### Closed Issues
 
+A total of 2 issues were closed in this release:
+
+[#3741](https://github.com/stdlib-js/stdlib/issues/3741), [#4978](https://github.com/stdlib-js/stdlib/issues/4978)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-logistic-pdf-unreleased">
+
+#### [@stdlib/stats/base/dists/logistic/pdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/logistic/pdf)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
 This release closes the following issue:
 
-[#3741](https://github.com/stdlib-js/stdlib/issues/3741)
+[#4978](https://github.com/stdlib-js/stdlib/issues/4978)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-logistic-quantile-unreleased">
+
+#### [@stdlib/stats/base/dists/logistic/quantile](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/logistic/quantile)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#4978](https://github.com/stdlib-js/stdlib/issues/4978)
 
 </section>
 
@@ -132,9 +358,43 @@ This release closes the following issue:
 
 ##### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3744](https://github.com/stdlib-js/stdlib/issues/3744)
+[#3744](https://github.com/stdlib-js/stdlib/issues/3744), [#4978](https://github.com/stdlib-js/stdlib/issues/4978)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-logistic-stdev-unreleased">
+
+#### [@stdlib/stats/base/dists/logistic/stdev](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/logistic/stdev)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`03954e1`](https://github.com/stdlib-js/stdlib/commit/03954e125b6cc761a5456e51c909ab09b18d15ee) - add C implementation for `stats/base/dists/logistic/stdev`   [(#4189)](https://github.com/stdlib-js/stdlib/pull/4189)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+A total of 2 issues were closed in this release:
+
+[#3745](https://github.com/stdlib-js/stdlib/issues/3745), [#4978](https://github.com/stdlib-js/stdlib/issues/4978)
 
 </section>
 
@@ -166,9 +426,9 @@ This release closes the following issue:
 
 ##### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3746](https://github.com/stdlib-js/stdlib/issues/3746)
+[#3746](https://github.com/stdlib-js/stdlib/issues/3746), [#4978](https://github.com/stdlib-js/stdlib/issues/4978)
 
 </section>
 
@@ -188,9 +448,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-A total of 5 issues were closed in this release:
+A total of 9 issues were closed in this release:
 
-[#3738](https://github.com/stdlib-js/stdlib/issues/3738), [#3739](https://github.com/stdlib-js/stdlib/issues/3739), [#3741](https://github.com/stdlib-js/stdlib/issues/3741), [#3744](https://github.com/stdlib-js/stdlib/issues/3744), [#3746](https://github.com/stdlib-js/stdlib/issues/3746)
+[#3735](https://github.com/stdlib-js/stdlib/issues/3735), [#3738](https://github.com/stdlib-js/stdlib/issues/3738), [#3739](https://github.com/stdlib-js/stdlib/issues/3739), [#3741](https://github.com/stdlib-js/stdlib/issues/3741), [#3744](https://github.com/stdlib-js/stdlib/issues/3744), [#3745](https://github.com/stdlib-js/stdlib/issues/3745), [#3746](https://github.com/stdlib-js/stdlib/issues/3746), [#4978](https://github.com/stdlib-js/stdlib/issues/4978), [#5302](https://github.com/stdlib-js/stdlib/issues/5302)
 
 </section>
 
@@ -200,11 +460,16 @@ A total of 5 issues were closed in this release:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 8 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   GK Bishnoi
+-   Gopi Kishan
+-   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
+-   Rishav Tarway
+-   Vivek Maurya
 
 </section>
 
@@ -216,6 +481,21 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`899f870`](https://github.com/stdlib-js/stdlib/commit/899f87037e24691f54fb4a6467cd501ea9212388) - **style:** add missing space [(#5312)](https://github.com/stdlib-js/stdlib/pull/5312) _(by Rishav Tarway)_
+-   [`f7988d3`](https://github.com/stdlib-js/stdlib/commit/f7988d3c02e0eff3bd9bd7523b5dc975bb98dc0e) - **bench:** fix `isnan` checks in `stats/base/dists` [(#5296)](https://github.com/stdlib-js/stdlib/pull/5296) _(by Karan Anand)_
+-   [`0d255bc`](https://github.com/stdlib-js/stdlib/commit/0d255bc39e0a122554fbc972be6c0973abb2c48a) - **bench:** refactor random number generation in JS benchmarks for `stats/base/dists/logistic` [(#5139)](https://github.com/stdlib-js/stdlib/pull/5139) _(by GK Bishnoi, Gopi Kishan)_
+-   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
+-   [`d53a818`](https://github.com/stdlib-js/stdlib/commit/d53a8184c029c3df7c45a7a1a2da9ff90b4f883e) - **docs:** fix errors in the structure of READMEs in `stats/base/*` [(#5138)](https://github.com/stdlib-js/stdlib/pull/5138) _(by Aayush Khanna)_
+-   [`177f0a0`](https://github.com/stdlib-js/stdlib/commit/177f0a00909c097be05d47107a3e6ab05b865409) - **chore:** consistently use differential entropy for continuous distributions _(by Philipp Burckhardt)_
+-   [`f75a0ce`](https://github.com/stdlib-js/stdlib/commit/f75a0cef6a3112b166dba04c13bada9763cec350) - **chore:** use excess kurtosis consistently _(by Philipp Burckhardt)_
+-   [`5a6efed`](https://github.com/stdlib-js/stdlib/commit/5a6efed4b52bece2bbcef65d8b19dcfaa168ff78) - **refactor:** precompute constant _(by Philipp Burckhardt)_
+-   [`03954e1`](https://github.com/stdlib-js/stdlib/commit/03954e125b6cc761a5456e51c909ab09b18d15ee) - **feat:** add C implementation for `stats/base/dists/logistic/stdev`   [(#4189)](https://github.com/stdlib-js/stdlib/pull/4189) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
+-   [`f3df15f`](https://github.com/stdlib-js/stdlib/commit/f3df15f118d563573f27d2d2b96e35b842f05a18) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
+-   [`fc0ff17`](https://github.com/stdlib-js/stdlib/commit/fc0ff171dab59e73e1748c1bff504166adc826c3) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
+-   [`f9d393e`](https://github.com/stdlib-js/stdlib/commit/f9d393e4a5cf40e85e24255c4372c5695da205f0) - **feat:** add C implementation for `stats/base/dists/logistic/kurtosis` [(#4034)](https://github.com/stdlib-js/stdlib/pull/4034) _(by Prashant Kumar Yadav, stdlib-bot)_
+-   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
+-   [`318f280`](https://github.com/stdlib-js/stdlib/commit/318f28057bf00d910a656c4f315b8de17f89d3b5) - **chore:** minor clean-up _(by Philipp Burckhardt)_
+-   [`8553770`](https://github.com/stdlib-js/stdlib/commit/85537708442675d6bc1bf5dad5aaf252cecb82ac) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`7eb69d4`](https://github.com/stdlib-js/stdlib/commit/7eb69d4e7b7b998a98772fa118c16707a0160e92) - **feat:** add C implementation for `stats/base/dists/logistic/median` [(#4031)](https://github.com/stdlib-js/stdlib/pull/4031) _(by Prashant Kumar Yadav)_
 -   [`6c141f4`](https://github.com/stdlib-js/stdlib/commit/6c141f4c169d080eec1867c421aa6ffa88b9ebfd) - **feat:** add C implementation for `stats/base/dists/logistic/skewness` [(#4038)](https://github.com/stdlib-js/stdlib/pull/4038) _(by Prashant Kumar Yadav)_
 -   [`7cff91f`](https://github.com/stdlib-js/stdlib/commit/7cff91f740c92525f6fe5fd1bbd9101babff3298) - **feat:** add C implementation for `stats/base/dists/logistic/mode` [(#4029)](https://github.com/stdlib-js/stdlib/pull/4029) _(by Prashant Kumar Yadav)_
