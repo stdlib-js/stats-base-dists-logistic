@@ -2,6 +2,45 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-30)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`b7879ad`](https://github.com/stdlib-js/stdlib/commit/b7879adce2d3bf7a6a1d4e626fd60172b3e33155) - **docs:** fix missing and malformed section closing tags in README files _(by Philipp Burckhardt)_
+-   [`ac2de21`](https://github.com/stdlib-js/stdlib/commit/ac2de219ef2fb87ceb61360e6c267c5ab1e3cdbb) - **style:** replace erroneous tab character with space _(by Philipp Burckhardt)_
+-   [`ff420ae`](https://github.com/stdlib-js/stdlib/commit/ff420aed1e79bd9e89c7394571e2692c4108583c) - **bench:** fix description _(by Athan Reines)_
+-   [`bf1ee75`](https://github.com/stdlib-js/stdlib/commit/bf1ee75f724235ffc70d27d16a58d18c7e4e0d56) - **bench:** refactor to use string interpolation in `stats/base/dists/logistic` [(#10105)](https://github.com/stdlib-js/stdlib/pull/10105) _(by Shubham)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+-   Shubham
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
