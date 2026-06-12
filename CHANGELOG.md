@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-06)
+## Unreleased (2026-06-12)
 
 <section class="bug-fixes">
 
@@ -23,6 +23,8 @@
 
 <details>
 
+-   [`77195c3`](https://github.com/stdlib-js/stdlib/commit/77195c343d9d48e264a58f8ec213d0df53ca7317) - **docs:** update namespace table of contents [(#12835)](https://github.com/stdlib-js/stdlib/pull/12835) _(by stdlib-bot)_
+-   [`cae5335`](https://github.com/stdlib-js/stdlib/commit/cae53357950b4c389b0020878c268995cd79d222) - **docs:** propagate develop fixes to sibling packages [(#12736)](https://github.com/stdlib-js/stdlib/pull/12736) _(by Philipp Burckhardt)_
 -   [`f83b869`](https://github.com/stdlib-js/stdlib/commit/f83b869b588bb84e82c2215695b78b862aeee072) - **docs:** update `stats/base/dists/logistic` TypeScript declarations [(#12606)](https://github.com/stdlib-js/stdlib/pull/12606) _(by stdlib-bot)_
 -   [`4f9ef5b`](https://github.com/stdlib-js/stdlib/commit/4f9ef5b858789502bd4356a3693723edd6d714d6) - **fix:** update parameter name [(#12485)](https://github.com/stdlib-js/stdlib/pull/12485) _(by Philipp Burckhardt)_
 -   [`2a2228d`](https://github.com/stdlib-js/stdlib/commit/2a2228d7ae175857ca7677a3b008d9fd334ae0ef) - **fix:** update parameter name [(#12486)](https://github.com/stdlib-js/stdlib/pull/12486) _(by Philipp Burckhardt)_
