@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-15)
+## Unreleased (2026-08-01)
 
 <section class="bug-fixes">
 
@@ -23,6 +23,16 @@
 
 <details>
 
+-   [`be0b1f5`](https://github.com/stdlib-js/stdlib/commit/be0b1f501a4af5546f7ff6ee979585e22bdd56a6) - **chore:** clean-up [(#13780)](https://github.com/stdlib-js/stdlib/pull/13780) _(by Philipp Burckhardt, Athan Reines)_
+-   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`2cee50a`](https://github.com/stdlib-js/stdlib/commit/2cee50a75da1437551b91682b8785dbae8ab897f) - **docs:** update Markdown equation elements [(#13547)](https://github.com/stdlib-js/stdlib/pull/13547) _(by stdlib-bot, Athan Reines)_
+-   [`36ee366`](https://github.com/stdlib-js/stdlib/commit/36ee366130c07464017ccf0b49b9645a8f644a5f) - **chore:** clean-up [(#13539)](https://github.com/stdlib-js/stdlib/pull/13539) _(by Philipp Burckhardt)_
+-   [`112dcfc`](https://github.com/stdlib-js/stdlib/commit/112dcfcf5333be07ec3986193a011220762a0591) - **docs:** fix string interpolation and missing JSDoc annotations [(#13284)](https://github.com/stdlib-js/stdlib/pull/13284) _(by Philipp Burckhardt)_
+-   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
+-   [`dbe4c82`](https://github.com/stdlib-js/stdlib/commit/dbe4c820ea98330253b4054a5bc9b04b2293415b) - **docs:** propagate fixes to sibling packages [(#12677)](https://github.com/stdlib-js/stdlib/pull/12677) _(by Philipp Burckhardt, Athan Reines)_
+-   [`91c5dd1`](https://github.com/stdlib-js/stdlib/commit/91c5dd10beac7d3e2763585abd74c5d29ff429f8) - **style:** add missing spaces [(#12920)](https://github.com/stdlib-js/stdlib/pull/12920) _(by Philipp Burckhardt)_
+-   [`9a18379`](https://github.com/stdlib-js/stdlib/commit/9a1837946aaf63554733e77e96fa07a0fe6bfba7) - **docs:** describe `mu` as location parameter in `stats/base/dists/logistic/mgf` [(#12874)](https://github.com/stdlib-js/stdlib/pull/12874) _(by Philipp Burckhardt)_
 -   [`77195c3`](https://github.com/stdlib-js/stdlib/commit/77195c343d9d48e264a58f8ec213d0df53ca7317) - **docs:** update namespace table of contents [(#12835)](https://github.com/stdlib-js/stdlib/pull/12835) _(by stdlib-bot)_
 -   [`cae5335`](https://github.com/stdlib-js/stdlib/commit/cae53357950b4c389b0020878c268995cd79d222) - **docs:** propagate develop fixes to sibling packages [(#12736)](https://github.com/stdlib-js/stdlib/pull/12736) _(by Philipp Burckhardt)_
 -   [`f83b869`](https://github.com/stdlib-js/stdlib/commit/f83b869b588bb84e82c2215695b78b862aeee072) - **docs:** update `stats/base/dists/logistic` TypeScript declarations [(#12606)](https://github.com/stdlib-js/stdlib/pull/12606) _(by stdlib-bot)_
