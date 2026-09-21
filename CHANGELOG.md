@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-01)
+## Unreleased (2026-09-21)
 
 <section class="bug-fixes">
 
@@ -23,6 +23,17 @@
 
 <details>
 
+-   [`c2daaa1`](https://github.com/stdlib-js/stdlib/commit/c2daaa10b32a1218336f46d52430274ce1aa459f) - **test:** migrate `stats/base/dists/logistic/logcdf` to ULP-based assertions [(#15229)](https://github.com/stdlib-js/stdlib/pull/15229) _(by Athan Reines)_
+-   [`433b730`](https://github.com/stdlib-js/stdlib/commit/433b7304619ad64bb65e65a11267730deff2dd62) - **test:** migrate `stats/base/dists/logistic/mean` to ULP-based assertions [(#15190)](https://github.com/stdlib-js/stdlib/pull/15190) _(by Divyanshu)_
+-   [`df58e94`](https://github.com/stdlib-js/stdlib/commit/df58e94c6067e67de4e0cfdaeee3ebfcd02bcdce) - **test:** migrate `stats/base/dists/logistic/quantile` to ULP-based assertions [(#15221)](https://github.com/stdlib-js/stdlib/pull/15221) _(by Athan Reines)_
+-   [`10cdfaf`](https://github.com/stdlib-js/stdlib/commit/10cdfafd5fa5d17c382e3e8b62a0f0150d5a963f) - **test:** migrate `stats/base/dists/logistic/mgf` to ULP-based assertions [(#15132)](https://github.com/stdlib-js/stdlib/pull/15132) _(by Athan Reines)_
+-   [`fa314b2`](https://github.com/stdlib-js/stdlib/commit/fa314b2c7532f9267172c212bb12f7027c0608a6) - **test:** migrate `stats/base/dists/logistic/pdf` to ULP-based assertions [(#15024)](https://github.com/stdlib-js/stdlib/pull/15024) _(by Athan Reines)_
+-   [`314b08a`](https://github.com/stdlib-js/stdlib/commit/314b08a447d3ea05edfb06115ea3d54fdd9e5178) - **test:** migrate `stats/base/dists/logistic/logpdf` to ULP-based assertions [(#14998)](https://github.com/stdlib-js/stdlib/pull/14998) _(by Athan Reines)_
+-   [`20cef32`](https://github.com/stdlib-js/stdlib/commit/20cef329ac9a6bc10a26c5f2a70b5684909bab93) - **test:** migrate `stats/base/dists/logistic/stdev` to ULP-based assertions [(#14769)](https://github.com/stdlib-js/stdlib/pull/14769) _(by Athan Reines)_
+-   [`bfc0a80`](https://github.com/stdlib-js/stdlib/commit/bfc0a80f37f7cca699c2f7e59bdf46e4a8efee43) - **test:** migrate `stats/base/dists/logistic/cdf` to ULP-based assertions [(#14607)](https://github.com/stdlib-js/stdlib/pull/14607) _(by Athan Reines)_
+-   [`b7c8197`](https://github.com/stdlib-js/stdlib/commit/b7c8197849fd411e8ba5644c9d29ef255fd23cb4) - **test:** migrate `stats/base/dists/logistic/variance` to ULP-based assertions [(#14484)](https://github.com/stdlib-js/stdlib/pull/14484) _(by Athan Reines)_
+-   [`4f49c25`](https://github.com/stdlib-js/stdlib/commit/4f49c2513625f43f6a7d58d2bb577965289ba920) - **docs:** clean-up [(#14454)](https://github.com/stdlib-js/stdlib/pull/14454) _(by Philipp Burckhardt)_
+-   [`e8d99e1`](https://github.com/stdlib-js/stdlib/commit/e8d99e1d5634b4080f95e70e42bab0e93961493a) - **test:** migrate `stats/base/dists/logistic/entropy` to ULP-based assertions [(#14218)](https://github.com/stdlib-js/stdlib/pull/14218) _(by Athan Reines)_
 -   [`be0b1f5`](https://github.com/stdlib-js/stdlib/commit/be0b1f501a4af5546f7ff6ee979585e22bdd56a6) - **chore:** clean-up [(#13780)](https://github.com/stdlib-js/stdlib/pull/13780) _(by Philipp Burckhardt, Athan Reines)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
@@ -55,9 +66,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Divyanshu
 -   Philipp Burckhardt
 -   Shubham
 
