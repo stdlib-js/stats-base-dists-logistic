@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-21)
+## Unreleased (2026-11-07)
 
 <section class="bug-fixes">
 
@@ -23,6 +23,9 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
+-   [`ea3ed5a`](https://github.com/stdlib-js/stdlib/commit/ea3ed5a42da2c7489afa83f2b14fcc0e14ca3c72) - **test:** migrate `stats/base/dists/logistic/median` to ULP-based assertions [(#15999)](https://github.com/stdlib-js/stdlib/pull/15999) _(by Athan Reines)_
+-   [`655c38b`](https://github.com/stdlib-js/stdlib/commit/655c38b2c03def3ad4be68dd0e31fff328bb79b7) - **test:** migrate `stats/base/dists/logistic/mode` to ULP-based assertions [(#15597)](https://github.com/stdlib-js/stdlib/pull/15597) _(by Athan Reines)_
 -   [`c2daaa1`](https://github.com/stdlib-js/stdlib/commit/c2daaa10b32a1218336f46d52430274ce1aa459f) - **test:** migrate `stats/base/dists/logistic/logcdf` to ULP-based assertions [(#15229)](https://github.com/stdlib-js/stdlib/pull/15229) _(by Athan Reines)_
 -   [`433b730`](https://github.com/stdlib-js/stdlib/commit/433b7304619ad64bb65e65a11267730deff2dd62) - **test:** migrate `stats/base/dists/logistic/mean` to ULP-based assertions [(#15190)](https://github.com/stdlib-js/stdlib/pull/15190) _(by Divyanshu)_
 -   [`df58e94`](https://github.com/stdlib-js/stdlib/commit/df58e94c6067e67de4e0cfdaeee3ebfcd02bcdce) - **test:** migrate `stats/base/dists/logistic/quantile` to ULP-based assertions [(#15221)](https://github.com/stdlib-js/stdlib/pull/15221) _(by Athan Reines)_
